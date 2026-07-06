@@ -11,15 +11,15 @@ class Moosedev < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/Trivyn/moosedev/releases/download/v0.5.1/moosedev-v0.5.1-aarch64-apple-darwin.tar.gz"
-      sha256 "3ceb243027a9fa6698dc2a69ebb4c596285d8eeb89c3c4718e7b4ea8c57ab4e3"
+      url "https://github.com/Trivyn/moosedev/releases/download/v0.5.2/moosedev-v0.5.2-aarch64-apple-darwin.tar.gz"
+      sha256 "a8d36c2de6f944a6a0f9a6a437ad2f5a5af134bed6d9a6be835fb8821dd6b286"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/Trivyn/moosedev/releases/download/v0.5.1/moosedev-v0.5.1-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "b3d96ea127176157f647732220a786b8d2317450fee7c5d9a18b5d81d13b4bf9"
+      url "https://github.com/Trivyn/moosedev/releases/download/v0.5.2/moosedev-v0.5.2-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "f74f5c7e5b0785b047efd8be9bd60b8e8216ac7d63bad879f6d36e9a50922293"
     end
   end
 
